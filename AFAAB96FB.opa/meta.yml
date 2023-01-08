@@ -1,0 +1,31 @@
+id: AFAAB96FB
+title: 'Final Words: The Essential Advice'
+type: translation
+pechas:
+- I8636C0CC
+- I1642183D
+- I661CFCB1
+- I2AFDAAEE
+- I1A5DBD96
+- IC6DF555F
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - nl
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:03:29.333750
+  last_modified_at: 2023-01-04 13:03:29.333755
+  collections:
+  - Minling Terchen Gyurme Dorje Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I8636C0CC/EE61: C3F5
+  I1642183D/E331: C3F5
+  I661CFCB1/009F: C3F5
+  I2AFDAAEE/D893: C3F5
+  I1A5DBD96/3B34: C3F5
+  IC6DF555F/4440: C3F5
